@@ -1,2 +1,47 @@
 # 7506R-2C2022-GRUPO3
-Repositorio para la entrega de Trabajos Prácticos - Grupo 3 - Integrantes : Miguel Vazquez - Facundo Monpelat - Ramiro Gestoso - Gaston Avila - Paula Bruck
+
+Repositorio para la entrega de Trabajos Prácticos 
+
+---
+
+<p align="center">
+  <!---<img src="https://www.estudiaradistancia.com.ar/logos/original/logo-universidad-de-buenos-aires.webp" height=80 />--->
+  <img src="https://confedi.org.ar/wp-content/uploads/2020/09/fiuba_logo.jpg" height="180"/>
+</p>
+<br>
+
+---
+
+<p align="center">
+<font size="+3">
+[75.06] Organizacion de Datos - Curso Rodriguez
+Repositorio para entrega de trabajos prácticos
+<br>
+Segundo Cuatrimestre - 2022
+</font>
+</p>
+<br>
+
+---
+
+<p align="center">
+<font size="+3">
+GRUPO 3
+</font>
+<font size="+2">
+INTEGRANTES
+</font>
+<font size="+1">
+Ramiro Gestoso,
+Facundo Monpelat,
+Paula Bruck,
+Miguel Vasquez,
+Gaston Avila
+</font>
+
+</p>
+
+<br>
+<br>
+
+---
