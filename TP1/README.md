@@ -1,3 +1,23 @@
+# Notas adicionales sobre los archivos de entrega
+
+## Sobre las notebooks entregadas
+
+Se decidió separar el trabajo de forma que se tuviese una notebook por cada una de las secciones principales del trabajo 
+(Seccionado según el enunciado:  ***1. Análisis Exploratorio y Preprocesamiento de Datos;  2. Agrupamiento;  3. Clasificación***)
+
+Las notebooks mencionadas están nombradas respectivamente con las terminaciones: ***ENTREGA_N1,  ENTREGA_N2,  ENTREGA_N3***
+
+## Sobre los datasets que se encuentran almacenados en el repositorio
+
+Se tienen los siguientes datasets almacenados:
+
+- `properati_argentina_2021.csv` es el set de datos original brindado por la cátedra.
+- `df_preprocesado.csv` es el set de datos almacenado tras aplicar por completo el analisis exploratorio y de outliers en el dataset original.
+- `df_pca.csv` es el dataset generado que se pide en la sección **1. (d)** del enunciado, tras aplicar PCA redimensionando el dataset preprocesado.
+- `df_target.csv` y `df_pca_target.csv` son los datasets generados despues de aplicar la separación de tipos de precio indicada en el inciso **3. (a)**
+y de haber añadido la feature `tipo_precio` según el criterio elegido en la parte **3.** del desarrollo del trabajo.
+
+---
 
 # Enunciado Trabajo Práctico 1: Propiedades en Venta
 
