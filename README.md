@@ -39,8 +39,7 @@ INTEGRANTES
 Ramiro Gestoso,
 Facundo Monpelat,
 Paula Bruck,
-Miguel Vasquez,
-Gaston Avila
+Miguel Vasquez
 </font>
 
 </p>

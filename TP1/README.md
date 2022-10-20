@@ -17,6 +17,13 @@ Se tienen los siguientes datasets almacenados:
 - `df_target.csv` y `df_pca_target.csv` son los datasets generados despues de aplicar la separación de tipos de precio indicada en el inciso **3. (a)**
 y de haber añadido la feature `tipo_precio` según el criterio elegido en la parte **3.** del desarrollo del trabajo.
 
+## Sobre archivo `requirements.txt`
+
+Se trata de un archivo auxiliar que utiliza el entorno de Deepnote (el entorno de desarrollo que utilizamos para el trabajo) para instalar
+dependencias que se necesiten para la ejecución de ciertas celdas. En caso de requerir usar google colab (u otra plataforma) se pueden instalar manualmente las dependencias
+del archivo al inicio de la primera notebook por medio de `!pip install`.
+
+
 ---
 
 # Enunciado Trabajo Práctico 1: Propiedades en Venta
