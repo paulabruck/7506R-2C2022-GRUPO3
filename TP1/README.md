@@ -5,7 +5,7 @@
 Se decidió separar el trabajo de forma que se tuviese una notebook por cada una de las secciones principales del trabajo (Exceptuando la ultima que contiene los puntos 4 y 5)
 (Seccionado según el enunciado:  ***1. Análisis Exploratorio y Preprocesamiento de Datos;  2. Agrupamiento;  3. Clasificación; 4. Regresión y Conclusiones***)
 
-Las notebooks mencionadas están nombradas respectivamente con las terminaciones: ***ENTREGA_N1,  ENTREGA_N2,  ENTREGA_N3,  ENTREGA_N4Y5***
+Las notebooks mencionadas están nombradas respectivamente con las terminaciones: ***ENTREGA_N1,  ENTREGA_N2,  ENTREGA_N3,  ENTREGA_N4YN5***
 
 ## Sobre los datasets que se encuentran almacenados en el repositorio
 
