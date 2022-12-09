@@ -19,8 +19,9 @@ El archivo `requirements.txt` es un archivo auxiliar que utiliza el entorno de D
 Se tienen archivos que almacenan información acerca de algunos de los modelos entrenados en el trabajo y algunos auxiliares traidos del TP1. 
 En particular los archivos relacionados a los nuevos modelos entrenados en el TP actual son:
 - `regresor_xgboost_dataset_ampliado.joblib`
-- `regresor_xgboost_dataset_ampliado.joblib`
 - `regresor_redneuronal.h5`
+- `clasificador_voting.zip` (el joblib se comprimió para poder subirlo al repositorio de entrega)
+- `regresor_stacking.joblib`
 
 El archivo `out_ecmes.txt` contiene la salida de ejecución de ECmes para el análisis de extraccion de información a partir de lenguaje natural de las descripciones de las propiedades.
 
